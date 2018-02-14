@@ -1,0 +1,17 @@
+
+\.idea/
+
+\.pytest_cache/v/cache/
+
+bin/
+
+lib/
+share/
+
+lib/python3\.5/__pycache__/
+
+__pycache__/
+
+pip-selfcheck\.json
+
+include/python3\.5m
