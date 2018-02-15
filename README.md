@@ -1,4 +1,4 @@
-#ASCII85 encoding
+# ASCII85 encoding
 
 A very enjoyable challenge set at a Harvey Nash hack [hosted by Hamish Pitkeathly](https://github.com/Hamishpk)
 
